@@ -38,16 +38,6 @@ Sprint | Previsão | Status| Histórico|
 Criar base de dados relacional e Dashboard que permita:
 * Identificar os modais ultilizados nos trâmites internacionais e de movimentação de carga
 * Desenhar a geografia do fluxo da carga para importação e exportação
-  
-
-# Funcionalidades e registros (vídeos e apresnetações) das sprints
-
-Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
-
-Adicionar video e documentos nessa seção
-
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
 
 ## Tecnologias Utilizadas
   ### Produto 
