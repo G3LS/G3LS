@@ -43,11 +43,10 @@ Futuramente
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+  Criar base de dados relacional e Dashboard que permita:
+* Identificar os modais ultilizados nos trâmites internacionais e de movimentação de carga
+* Desenhar a geografia do fluxo da carga para importação e exportação
+  
 
 # Funcionalidades e registros (vídeos e apresnetações) das sprints
 
