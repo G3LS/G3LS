@@ -30,12 +30,6 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções| 12/12/2023 | A fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 
-# Micro Certificações
-Futuramente
-
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
 
 
 # Equipe
