@@ -36,8 +36,7 @@ Sprint | Previsão | Status| Histórico|
 ![Equipe](https://github.com/AndreLuizRibeiro/Template/blob/main/.img/gettyimages-1380215929-612x612.jpg?raw=true)
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-  Criar base de dados relacional e Dashboard que permita:
+Este projeto tem como objetivo criar base de dados relacional e Dashboard que permita:
 * Identificar os modais ultilizados nos trâmites internacionais e de movimentação de carga
 * Desenhar a geografia do fluxo da carga para importação e exportação
   
