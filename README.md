@@ -20,11 +20,11 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 04/09/2023 | Concluído | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|00| 25/09/2023 | Em Progresso | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01| 16/10/2023 | A fazer | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02| 06/11/2023 | A fazer | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 27/11/2023 | A fazer | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|Feira de Soluções| 12/12/2023 | A fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|00| 25/09/2023 | Em Progresso | [Ver Relatório](https://github.com/G3LS/G3LS/blob/main/Arquivos/Relat%C3%B3rio%20da%20Sprint%200.pdf) | 
+|01| 16/10/2023 | A fazer | [Ver Relatório]() | 
+|02| 06/11/2023 | A fazer | [Ver Relatório]() | 
+|03| 27/11/2023 | A fazer | [Ver Relatório]() | 
+|Feira de Soluções| 12/12/2023 | A fazer |[Ver Relatório]() | 
 
 # Equipe
 ![Equipe](https://github.com/AndreLuizRibeiro/Template/blob/main/.img/gettyimages-1380215929-612x612.jpg?raw=true)
