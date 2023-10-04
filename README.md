@@ -26,7 +26,7 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções| 12/12/2023 | A fazer |[Ver Relatório]() | 
 
 # Equipe
-![Equipe](https://github.com/G3LS/G3LS/blob/main/.img/teste.png)
+![Equipe](https://github.com/G3LS/G3LS/blob/main/.img/Equipe.png)
 
 # Objetivo do Projeto
 Criar base de dados relacional e Dashboard que permita:
