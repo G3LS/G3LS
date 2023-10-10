@@ -81,7 +81,7 @@ User Stories
 - [ ] Criar relação entre RFs e Municípios de Exportação e importação;
 - [ ] Pesquisar cargas exportadas com potencial para a atividade da próxima Sprint;
 - [ ] Pesquisar cargas importadas com potencial para a atividade do próximo Sprint;
-- [ ] Aprender / Ensinar Github;
+- [x] Aprender / Ensinar Github;
 - [ ] Aprender / Ensinar Jira;
 
 # Competências desenvolvidas
