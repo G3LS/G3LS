@@ -76,11 +76,11 @@ User Stories
 
 ## Sprint 1. Concepção
 - [x] Identificar o modais utilizados Importação e Exportação;
-- [ ] Pesquisar o que é trâmites internacionais;
-- [ ] Analisar Base de dados com o Filtro dos Municípios;
+- [x] Pesquisar o que é trâmites internacionais;
+- [x] Analisar Base de dados com o Filtro dos Municípios;
 - [ ] Criar relação entre RFs e Municípios de Exportação e importação;
-- [ ] Pesquisar cargas exportadas com potencial para a atividade da próxima Sprint;
-- [ ] Pesquisar cargas importadas com potencial para a atividade do próximo Sprint;
+- [x] Pesquisar cargas exportadas com potencial para a atividade da próxima Sprint;
+- [x] Pesquisar cargas importadas com potencial para a atividade do próximo Sprint;
 - [x] Aprender / Ensinar Github;
 - [ ] Aprender / Ensinar Jira;
 
