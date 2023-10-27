@@ -85,9 +85,9 @@ User Stories
 - [x] Aprender / Ensinar Jira;
 
 ## Sprint 2. Aperfeiçoamento
-- [] Estabelecer a probabilidade de saída de produtos por determinada RF
-- [] Desenhar o fluxo de expotação de uma mercadoria preestabelecida
-- [] 
+- [ ] Estabelecer a probabilidade de saída de produtos por determinada RF
+- [ ] Desenhar o fluxo de expotação de uma mercadoria preestabelecida
+- [ ] 
 
 ## Sprint 3. Conclusão
 
