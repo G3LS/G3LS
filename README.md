@@ -70,11 +70,11 @@ User Stories
 - [x] Estruturar Jira;
 - [x] Estruturar Github;
 - [x] Questionar indicadores necessários;
-- [X] Fazer Burndown da Estimativa das atividades;
-- [ ] Aprender / Ensinar Github;
-- [ ] Aprender / Ensinar Jira;
+- [x] Fazer Burndown da Estimativa das atividades;
+- [x] Aprender / Ensinar Github;
+- [x] Aprender / Ensinar Jira;
 
-## Sprint 1. Concepção
+## Sprint 1. Elaboração
 - [x] Identificar o modais utilizados Importação e Exportação;
 - [x] Pesquisar o que é trâmites internacionais;
 - [x] Analisar Base de dados com o Filtro dos Municípios;
@@ -82,7 +82,15 @@ User Stories
 - [x] Pesquisar cargas exportadas com potencial para a atividade da próxima Sprint;
 - [x] Pesquisar cargas importadas com potencial para a atividade do próximo Sprint;
 - [x] Aprender / Ensinar Github;
-- [ ] Aprender / Ensinar Jira;
+- [x] Aprender / Ensinar Jira;
+
+## Sprint 2. Aperfeiçoamento
+- [] Estabelecer a probabilidade de saída de produtos por determinada RF
+- [] Desenhar o fluxo de expotação de uma mercadoria preestabelecida
+- [] 
+
+## Sprint 3. Conclusão
+
 
 # Competências desenvolvidas
 
