@@ -73,6 +73,7 @@ User Stories
 - [x] Fazer Burndown da Estimativa das atividades;
 - [x] Aprender / Ensinar Github;
 - [x] Aprender / Ensinar Jira;
+### MVP: Backlog estruturado e distribuição das tarefas para a próxima Sprint.
 
 ## Sprint 1. Elaboração
 - [x] Identificar o modais utilizados Importação e Exportação;
@@ -83,11 +84,13 @@ User Stories
 - [x] Pesquisar cargas importadas com potencial para a atividade do próximo Sprint;
 - [x] Aprender / Ensinar Github;
 - [x] Aprender / Ensinar Jira;
+### MVP: Relação entre as principais cargas exportadas e importadas em cada RF.
 
 ## Sprint 2. Aperfeiçoamento
 - [ ] Estabelecer a probabilidade de saída de produtos por determinada RF
 - [ ] Desenhar o fluxo de expotação de uma mercadoria preestabelecida
-- [ ] 
+- [ ] Relacionar os dados apresentados 
+### MVP: Apresentar a probabilidade de uma carga sair por determinada RF.
 
 ## Sprint 3. Conclusão
 
