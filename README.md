@@ -78,12 +78,13 @@ User Stories
 - [x] Identificar o modais utilizados Importação e Exportação;
 - [x] Pesquisar o que é trâmites internacionais;
 - [x] Analisar Base de dados com o Filtro dos Municípios;
-- [ ] Criar relação entre RFs e Municípios de Exportação e importação;
+- [x] Criar relação entre RFs e Municípios de Exportação e importação;
 - [x] Pesquisar cargas exportadas com potencial para a atividade da próxima Sprint;
 - [x] Pesquisar cargas importadas com potencial para a atividade do próximo Sprint;
 - [x] Aprender / Ensinar Github;
 - [x] Aprender / Ensinar Jira;
-
+### Burndown Sprint 1      
+![MVP2](https://github.com/G3LS/G3LS/blob/main/.img/Burndown%20Sprint1.jpeg)
 ## Sprint 2. Aperfeiçoamento
 - [X] Estabelecer a probabilidade de saída de produtos por determinada RF
 - [X] Desenhar o fluxo de expotação de uma mercadoria preestabelecida
