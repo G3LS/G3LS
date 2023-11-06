@@ -90,6 +90,8 @@ User Stories
 - [X] Relacionar os dados apresentados
 ## MVP Sprint 2
 ![MVP2](https://github.com/G3LS/G3LS/blob/main/.img/MVPSprint2.png)
+
+![BRDW2](https://github.com/G3LS/G3LS/blob/main/.img/Burndown%20Sprint2.jpeg)
 ## Sprint 3. Conclusão
 
 
