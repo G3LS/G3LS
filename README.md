@@ -87,7 +87,8 @@ User Stories
 ## Sprint 2. Aperfeiçoamento
 - [X] Estabelecer a probabilidade de saída de produtos por determinada RF
 - [X] Desenhar o fluxo de expotação de uma mercadoria preestabelecida
-- [X] Relacionar os dados apresentados 
+- [X] Relacionar os dados apresentados
+## MVP Sprint 2
 ![MVP2](https://github.com/G3LS/G3LS/blob/main/.img/MVPSprint2.png)
 ## Sprint 3. Conclusão
 
