@@ -85,10 +85,10 @@ User Stories
 - [x] Aprender / Ensinar Jira;
 
 ## Sprint 2. Aperfeiçoamento
-- [ ] Estabelecer a probabilidade de saída de produtos por determinada RF
-- [ ] Desenhar o fluxo de expotação de uma mercadoria preestabelecida
-- [ ] Relacionar os dados apresentados 
-
+- [X] Estabelecer a probabilidade de saída de produtos por determinada RF
+- [X] Desenhar o fluxo de expotação de uma mercadoria preestabelecida
+- [X] Relacionar os dados apresentados 
+![MVP2](https://github.com/G3LS/G3LS/blob/main/.img/MVPSprint2.png)
 ## Sprint 3. Conclusão
 
 
