@@ -87,7 +87,7 @@ User Stories
 ![MVP2](https://github.com/G3LS/G3LS/blob/main/.img/Burndown%20Sprint1.jpeg)
 ## Sprint 2. Aperfeiçoamento
 - [X] Estabelecer a probabilidade de saída de produtos por determinada RF
-- [X] Desenhar o fluxo de expotação de uma mercadoria preestabelecida
+- [X] Desenhar o fluxo de exportação de uma mercadoria preestabelecida
 - [X] Relacionar os dados apresentados
 
 ### MVP Sprint 2
