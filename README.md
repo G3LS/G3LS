@@ -96,7 +96,16 @@ User Stories
 ### Burndown Sprint 2
 ![BRDW2](https://github.com/G3LS/G3LS/blob/main/.img/Burndown%20Sprint2.jpeg)
 ## Sprint 3. Conclusão
+- [X] Criar tabelas auxiliares no excel
+- [X] Estabelecer relações entre os dados encontrados
+- [X] Criar Dashboard
+- [X] Estruturar apresentação no Power BI
 
+ ### MVP Sprint 3
+![MVP2](https://github.com/G3LS/G3LS/blob/main/.img/MVP%20Sprint3.jpeg)
+
+### Burndown Sprint 3
+![BRDW2](https://github.com/G3LS/G3LS/blob/main/.img/Burndown%20Sprint3.jpeg)
 
 # Competências desenvolvidas
 
