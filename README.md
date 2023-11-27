@@ -22,7 +22,7 @@ Sprint | Previsão | Status| Histórico|
 |00| 25/09/2023 | Concluído | [Ver Relatório](https://github.com/G3LS/G3LS/blob/main/Arquivos/Relat%C3%B3rio%20da%20Sprint%200.pdf) | 
 |01| 16/10/2023 | Concluído | [Ver Relatório](https://github.com/G3LS/G3LS/blob/main/Arquivos/Relat%C3%B3rio%20Sprint%201.pdf) | 
 |02| 06/11/2023 | Concluído | [Ver Relatório](https://github.com/G3LS/G3LS/blob/main/Arquivos/Relat%C3%B3rio%20Sprint%202.pdf) | 
-|03| 27/11/2023 | Em Andamento | [Ver Relatório]() | 
+|03| 27/11/2023 | Concluído | [Ver Relatório](https://github.com/G3LS/G3LS/blob/main/Arquivos/Relat%C3%B3rio%20Sprint%203.pdf) | 
 |Feira de Soluções| 12/12/2023 | A fazer |[Ver Relatório]() | 
 
 # Equipe
